@@ -5,7 +5,7 @@ import { View, StyleSheet, TouchableHighlight, SafeAreaView, Text, FlatList, Ale
 import AntdesignIcon from 'react-native-vector-icons/AntDesign';
 import DocumentPicker from 'react-native-document-picker';
 import ImagePicker from 'react-native-image-crop-picker';
-import ListItem from '../ListItem';
+import ListItem from './component/ListItem';
 
 const underlayColorObj = {
     type: "#ffbf01"
